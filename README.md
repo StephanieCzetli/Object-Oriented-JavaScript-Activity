@@ -1,7 +1,7 @@
 # Object Oriented JavaScript Activity
 
 ## Part 1
-Create an object literal to represent a Facebook post. Include any `properties` or `functions` you think you might need. Try accessing and updating the contents with both `bracket notation` and `dot notation`. See and example below:
+Create an object literal to represent a Facebook post. Include any `properties` or `functions` you think you might need. Try accessing and updating the contents with both `bracket notation` and `dot notation`. See an example below:
 ```javascript
 let post = {
     name: "Kaleb Burd",
